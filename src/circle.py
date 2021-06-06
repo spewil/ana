@@ -2,7 +2,6 @@ import pygame
 import numpy as np
 from queue import Queue
 from threading import Thread
-import time
 
 from leap import Sensor, calibrate, data_puller
 
